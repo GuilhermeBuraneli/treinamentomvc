@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MigrationScriptGenerator</id>
+    <version>1.1.10</version>
+    <title>MigrationScriptGenerator</title>
+    <authors>Harry McIntyre</authors>
+    <owners>Harry McIntyre</owners>
+    <projectUrl>https://github.com/mcintyre321/MigrationScriptGenerator</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Tool for automatically diffing two databases and creating migration scripts. Uses OpenDBDiff</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2012</copyright>
+    <tags>SQL Diff Migration</tags>
+  </metadata>
+</package>

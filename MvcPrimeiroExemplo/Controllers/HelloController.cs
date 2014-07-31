@@ -14,9 +14,9 @@ namespace MvcPrimeiroExemplo.Controllers
         {
             var aluno = new Aluno
                             {
-                                Cidade = "Fortaleza",
-                                Idade = 30,
-                                Nome = "João"
+                                Cidade = "Ribeirão Preto",
+                                Idade = 24,
+                                Nome = "Guilherme"
                             };
 
             return View(aluno);
