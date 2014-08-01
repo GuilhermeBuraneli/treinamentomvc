@@ -11,6 +11,7 @@
     <File id="581060B0-739C-41DE-BFB7-8E50AF8FE7C8/d:Views/d:Hello/f:Index.cshtml" caret="24" fromTop="0" />
     <File id="581060B0-739C-41DE-BFB7-8E50AF8FE7C8/d:Views/f:_ViewStart.cshtml" caret="49" fromTop="1" />
     <File id="581060B0-739C-41DE-BFB7-8E50AF8FE7C8/d:Content/f:Site.css" caret="237" fromTop="9" />
+    <File id="581060B0-739C-41DE-BFB7-8E50AF8FE7C8/f:Web.config" caret="1106" fromTop="8" />
     <File id="581060B0-739C-41DE-BFB7-8E50AF8FE7C8/d:Views/d:Hello/f:ListarAlunos.cshtml" caret="225" fromTop="10" />
     <File id="581060B0-739C-41DE-BFB7-8E50AF8FE7C8/d:Views/d:Hello/f:_ResultadoAlunos.cshtml" caret="380" fromTop="20" />
     <File id="581060B0-739C-41DE-BFB7-8E50AF8FE7C8/d:Views/d:Hello/f:RelacaoAlunosAjax.cshtml" caret="0" fromTop="0" />
@@ -26,7 +27,6 @@
     <File id="581060B0-739C-41DE-BFB7-8E50AF8FE7C8/d:Views/d:Hello/f:InserirComRedirect.cshtml" caret="160" fromTop="3" />
     <File id="581060B0-739C-41DE-BFB7-8E50AF8FE7C8/d:Views/d:Hello/f:Inserir.cshtml" caret="527" fromTop="21" />
     <File id="581060B0-739C-41DE-BFB7-8E50AF8FE7C8/d:Views/d:Hello/f:RetornarDados.cshtml" caret="243" fromTop="10" />
-    <File id="581060B0-739C-41DE-BFB7-8E50AF8FE7C8/f:Web.config" caret="582" fromTop="9" />
   </RecentFiles>
   <RecentEdits>
     <File id="BBD17DC9-B3FA-47CC-9305-F979CC4D5737/d:Views/d:Hello/f:Index.cshtml" caret="207" fromTop="9" />
@@ -51,6 +51,5 @@
     <File id="581060B0-739C-41DE-BFB7-8E50AF8FE7C8/d:Controllers/f:HelloController.cs" caret="992" fromTop="8" />
     <File id="581060B0-739C-41DE-BFB7-8E50AF8FE7C8/d:Views/d:Shared/f:_Layout.cshtml" caret="1179" fromTop="14" />
     <File id="581060B0-739C-41DE-BFB7-8E50AF8FE7C8/f:Global.asax.cs" caret="733" fromTop="13" />
-    <File id="581060B0-739C-41DE-BFB7-8E50AF8FE7C8/f:Web.config" caret="892" fromTop="12" />
   </RecentEdits>
 </RecentFiles>

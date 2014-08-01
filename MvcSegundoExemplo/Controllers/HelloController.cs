@@ -115,15 +115,15 @@ namespace MvcSegundoExemplo.Controllers
                                  {
                                      new Aluno
                                          {
-                                             Cidade = "São Paulo",
-                                             Idade = 25,
-                                             Nome = "Gabriela"
+                                             Cidade = "Fortaleza",
+                                             Idade = 30,
+                                             Nome = "João"
                                          },
                                          new Aluno
                                          {
-                                             Cidade = "Ribeirão Preto",
-                                             Idade = 24,
-                                             Nome = "Guilherme"
+                                             Cidade = "Rio de Janeiro",
+                                             Idade = 26,
+                                             Nome = "Mariana"
                                          },
                                  };
             return alunosList.AsQueryable();

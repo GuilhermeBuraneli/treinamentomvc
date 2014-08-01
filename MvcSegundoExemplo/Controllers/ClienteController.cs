@@ -46,7 +46,6 @@ namespace MvcSegundoExemplo.Controllers
         // POST: /Cliente/Create
 
         [HttpPost]
-        [ValidateAntiForgeryToken]
         public ActionResult Create(Cliente cliente)
         {
             if (ModelState.IsValid)
@@ -76,7 +75,6 @@ namespace MvcSegundoExemplo.Controllers
         // POST: /Cliente/Edit/5
 
         [HttpPost]
-        [ValidateAntiForgeryToken]
         public ActionResult Edit(Cliente cliente)
         {
             if (ModelState.IsValid)
@@ -105,7 +103,6 @@ namespace MvcSegundoExemplo.Controllers
         // POST: /Cliente/Delete/5
 
         [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
         public ActionResult DeleteConfirmed(int id)
         {
             Cliente cliente = db.Clientes.Find(id);
