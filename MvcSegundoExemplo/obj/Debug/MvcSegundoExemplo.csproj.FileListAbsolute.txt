@@ -33,3 +33,38 @@ D:\SkyDrive\Trabalho\Edukee\Treinamentos\Introdução ao ASP.NET MVC 4\Projeto\M
 D:\SkyDrive\Trabalho\Edukee\Treinamentos\Introdução ao ASP.NET MVC 4\Projeto\MvcPrimeiroExemplo\MvcSegundoExemplo\obj\Debug\MvcSegundoExemplo.Migrations.AddSobreNome.resources
 D:\SkyDrive\Trabalho\Edukee\Treinamentos\Introdução ao ASP.NET MVC 4\Projeto\MvcPrimeiroExemplo\MvcSegundoExemplo\obj\Debug\MvcSegundoExemplo.Migrations.RequiredNome.resources
 D:\SkyDrive\Trabalho\Edukee\Treinamentos\Introdução ao ASP.NET MVC 4\Projeto\MvcPrimeiroExemplo\MvcSegundoExemplo\obj\Debug\MvcSegundoExemplo.Migrations.NullNome.resources
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\MvcSegundoExemplo.dll
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\MvcSegundoExemplo.pdb
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\Antlr3.Runtime.dll
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\EntityFramework.dll
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\Microsoft.Web.Infrastructure.dll
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\Newtonsoft.Json.dll
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\System.Net.Http.Formatting.dll
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\System.Web.Http.dll
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\System.Web.Http.WebHost.dll
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\System.Web.Mvc.dll
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\System.Web.Optimization.dll
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\System.Web.Providers.dll
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\System.Web.Razor.dll
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\System.Web.WebPages.Deployment.dll
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\System.Web.WebPages.dll
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\System.Web.WebPages.Razor.dll
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\WebGrease.dll
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\EntityFramework.xml
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\Newtonsoft.Json.xml
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\System.Net.Http.Formatting.xml
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\System.Web.Http.xml
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\System.Web.Http.WebHost.xml
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\System.Web.Mvc.xml
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\System.Web.Razor.xml
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\System.Web.WebPages.xml
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\System.Web.WebPages.Deployment.xml
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\bin\System.Web.WebPages.Razor.xml
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\obj\Debug\MvcSegundoExemplo.csprojResolveAssemblyReference.cache
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\obj\Debug\MvcSegundoExemplo.Migrations.AddCliente.resources
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\obj\Debug\MvcSegundoExemplo.Migrations.AddSobreNome.resources
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\obj\Debug\MvcSegundoExemplo.Migrations.RequiredNome.resources
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\obj\Debug\MvcSegundoExemplo.Migrations.NullNome.resources
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\obj\Debug\MvcSegundoExemplo.csproj.GenerateResource.Cache
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\obj\Debug\MvcSegundoExemplo.dll
+D:\Usr\Sistemas\Treinamento\treinamentomvc\MvcSegundoExemplo\obj\Debug\MvcSegundoExemplo.pdb
